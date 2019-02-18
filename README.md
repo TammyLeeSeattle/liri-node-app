@@ -8,3 +8,10 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 #### How to access it
 Because this is a command-line application, there's no "front-end" to show you, but if you'd like to clone the repo, here it is!: [https://github.com/TammyLeeSeattle/liri-node-app.git](https://github.com/TammyLeeSeattle/liri-node-app.git)
+
+#### Resources
+
+- [https://www.npmjs.com/package/node-spotify-api](Spotify)
+- [https://www.npmjs.com/package/axios](Axios)
+- [https://www.npmjs.com/package/moment](Moment)
+- [https://www.npmjs.com/package/dotenv](Dotenv)
