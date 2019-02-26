@@ -20,4 +20,4 @@ Because this is a command-line application, there's no "front-end" to show you, 
 
 #### concert-this
 
-<iframe src="https://giphy.com/embed/9Dgf5IQvBPe4lKng4t" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9Dgf5IQvBPe4lKng4t">via GIPHY</a></p>
+[https://gph.is/g/Z2r1kbZ](https://gph.is/g/Z2r1kbZ)
