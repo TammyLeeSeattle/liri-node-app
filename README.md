@@ -21,3 +21,5 @@ Because this is a command-line application, there's no "front-end" to show you, 
 #### concert-this
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XeODGN6NuuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[concert this](https://img.youtube.com/vi/XeODGN6NuuA/0.jpg)](https://www.youtube.com/watch?v=XeODGN6NuuA)
