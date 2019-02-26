@@ -21,9 +21,17 @@ Because this is a command-line application, there's no "front-end" to show you, 
 #### concert-this
 
 [![concert-this](https://img.youtube.com/vi/XeODGN6NuuA/0.jpg)](https://www.youtube.com/watch?v=XeODGN6NuuA)
+
 (Click the picture!)
 
 #### spotify-this-song
 
 [![spotify-this-song](https://img.youtube.com/vi/dGgHS_H8aw0/0.jpg)](https://www.youtube.com/watch?v=dGgHS_H8aw0)
+
+(Click the picture!)
+
+#### movie-this
+
+[![movie-this](https://img.youtube.com/vi/bad_dfArK84/0.jpg)](https://www.youtube.com/watch?v=bad_dfArK84)
+
 (Click the picture!)
