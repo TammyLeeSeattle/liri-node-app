@@ -25,3 +25,5 @@ Because this is a command-line application, there's no "front-end" to show you, 
   <iframe src="https://giphy.com/embed/9Dgf5IQvBPe4lKng4t" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+<iframe src="https://giphy.com/embed/9Dgf5IQvBPe4lKng4t" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
