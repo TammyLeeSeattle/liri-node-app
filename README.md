@@ -20,4 +20,8 @@ Because this is a command-line application, there's no "front-end" to show you, 
 
 #### concert-this
 
-[https://gph.is/g/Z2r1kbZ](https://gph.is/g/Z2r1kbZ)
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://giphy.com/embed/9Dgf5IQvBPe4lKng4t" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
