@@ -20,10 +20,4 @@ Because this is a command-line application, there's no "front-end" to show you, 
 
 #### concert-this
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://giphy.com/embed/9Dgf5IQvBPe4lKng4t" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-<iframe src="https://giphy.com/embed/9Dgf5IQvBPe4lKng4t" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XeODGN6NuuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
